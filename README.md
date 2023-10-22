@@ -1,5 +1,8 @@
 # LLMAudioChat
-Audio chat with GGUF LLM on Windows / C# 
+Pirvate audio chat with GGUF LLM on Windows / C# 
+(private means, that it keeps all data locally and does not upload to the internet)
+
+Demo: [https://youtu.be/2XsfQsN-P2M](https://youtu.be/2XsfQsN-P2M).
 
 ## How to use it
 1. Get a Windows computer with Visual Studio and NVidia graphics card. I use 3090, but lower end card would work too. Get headphones and a microphone (or maybe you have a speeker with microphone array which subtracts speaker from microphne signal? Because this software is not capable of doing that, sorry!)
